@@ -118,13 +118,6 @@ wget --no-check-certificate -O vmess.sh https://raw.githubusercontent.com/bigfan
 电报群交流群：https://t.me/dafangbigfang 群里有很多小伙伴都会帮你  
 电报频道：https://t.me/dafangbigfangC  
 感谢 @CCChieh  
-请务必保存好vmess连接目前没有找回的方法  
+ 
 
-++++++++++++++++++++++++++++  
-小白手把手教程：https://bit.ly/34IdWaZ  
-IBMVPS搭建过程中的一些问题解答：https://bit.ly/2ZjVCkN  
-大方bigfangYouTube频道：https://bit.ly/332QGCa  
-TG：@bigfangfang  
-TG群：https://t.me/dafangbigfang  
-TGbigfang频道：https://t.me/dafangbigfangC  
 
